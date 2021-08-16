@@ -17,7 +17,6 @@
 
 <p><img align="right" src="blah.gif" width="250" height="250" /></p>
 
-
 ### Programming Languages 💻:
 
 <img align="left" alt="Python" width="26px" src="images/python.png" />
