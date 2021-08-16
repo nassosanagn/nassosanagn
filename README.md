@@ -5,7 +5,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## About Me 👨‍🎓
-<!-- <p><img align="right" src="./images/giphy1.gif" width="200" height="200" /></p> -->
+<p><img align="right" src="./images/giphy1.gif" width="200" height="200" /></p>
 
 - 🎓 Studying Computer Science at the department of Informatics & Telecommunications at [@UoA].
 - 🌱 I’m currently learning more about Game Development and Machine Learning.
@@ -15,7 +15,7 @@
 - 🎾 Tennis lover. Used to play a lot, now I play a couple times a week.
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
-<p><img align="right" src="blah.gif" width="250" height="250" /></p>
+<!-- <p><img align="right" src="blah.gif" width="250" height="250" /></p> -->
 
 ### Programming Languages 💻:
 
