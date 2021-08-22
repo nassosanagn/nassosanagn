@@ -8,7 +8,7 @@
 <p><img align="right" src="./images/giphy1.gif" width="200" height="200" /></p>
 
 - 🎓 Studying Computer Science at the department of Informatics & Telecommunications at [@UoA].
-- 🌱 I’m currently learning more about Game Development and Machine Learning.
+- 🌱 I’m currently learning more about Web Development and Machine Learning.
 - 🥅 2021 Goal: Contribute more to Open Source projects.
 - ✈️ I really enjoy traveling, camping and exploring places on my spare time.
 - 🏀 I play basketball almost daily since I was a kid and I love watching the NBA.
