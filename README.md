@@ -49,7 +49,7 @@
 ---
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassosanagn&layout=compact&theme=tokyonight" width="370" height="190"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassosanagn&layout=compact&theme=tokyonight" width="350" height="190"/> 
   <img src="https://github-readme-stats.vercel.app/api?username=nassosanagn&count_private=true&show_icons=true&theme=dark" width="480" />
 </p>
 
