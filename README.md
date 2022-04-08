@@ -9,7 +9,7 @@
 
 - 🎓 Studying Computer Science at the department of Informatics & Telecommunications at [@UoA].
 - 🌱 I’m currently learning more about Data Engineering and Machine Learning.
-- 🥅 2021 Goal: Contribute more to Open Source projects.
+- 🥅 2022 Goal: Contribute more to Open Source projects.
 - ✈️ I really enjoy traveling, camping and exploring places on my spare time.
 - 🏀 I play basketball almost daily since I was a kid and I love watching the NBA.
 - 🎾 Tennis lover. Used to play a lot, now I play a couple times a week.
@@ -38,9 +38,9 @@
 <img align="left" alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="Flume" width="26px" src="https://flume.apache.org/_static/flume-logo.png" />
 
-<img align="left" alt="Kafka" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" />
+<!-- <img align="left" alt="Kafka" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" />
 <img align="left" alt="Kafka" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
-<img align="left" alt="Kafka" width="40px" src="https://download.logo.wine/logo/Apache_HBase/Apache_HBase-Logo.wine.png" />
+<img align="left" alt="Kafka" width="40px" src="https://download.logo.wine/logo/Apache_HBase/Apache_HBase-Logo.wine.png" /> -->
 <br />
 
 ### Tools 🛠️:
