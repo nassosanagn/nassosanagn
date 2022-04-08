@@ -33,9 +33,9 @@
 
 ### Big Data Technologies 🛠️:
 <img align="left" alt="Hadoop" width="35px" src="https://assets.zabbix.com/img/brands/hadoop.svg" />
-<img align="left" alt="Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
-<img align="left" alt="Kafka" width="15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
-<img align="left" alt="Spark" width="35" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+<img align="left" alt="Hive" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
+<img align="left" alt="Kafka" width="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
+<img align="left" alt="Spark" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="Flume" width="26px" src="https://flume.apache.org/_static/flume-logo.png" />
 
 
