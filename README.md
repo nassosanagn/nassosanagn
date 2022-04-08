@@ -27,7 +27,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
 
 <br />
 
@@ -37,9 +37,10 @@
 <img align="left" alt="Kafka" width="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
 <img align="left" alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="Flume" width="26px" src="https://flume.apache.org/_static/flume-logo.png" />
-<img align="left" alt="Kafka" width="25px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" />
-<img align="left" alt="Kafka" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
-<img align="left" alt="Kafka" width="25px" src="https://download.logo.wine/logo/Apache_HBase/Apache_HBase-Logo.wine.png" />
+
+<img align="left" alt="Kafka" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" />
+<img align="left" alt="Kafka" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
+<img align="left" alt="Kafka" width="40px" src="https://download.logo.wine/logo/Apache_HBase/Apache_HBase-Logo.wine.png" />
 <br />
 
 ### Tools 🛠️:
