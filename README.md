@@ -32,7 +32,13 @@
 <br />
 
 ### Big Data Technologies 🛠️:
-  <img align="left" alt="Spark" width="26px" src="./images/spark.png" />
+<img align="left" alt="Hadoop" width="26px" src="https://seeklogo.com/images/H/hadoop-logo-D36814CB84-seeklogo.com.png" />
+<img align="left" alt="Hive" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
+<img align="left" alt="Kafka" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
+<img align="left" alt="Spark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+<img align="left" alt="Flume" width="26px" src="https://flume.apache.org/_static/flume-logo.png" />
+
+<br />
 
 ### Tools 🛠️:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
