@@ -13,7 +13,6 @@
 - 🥅 2022 Goal: Contribute more to Open Source projects.
 - ✈️ I really enjoy traveling, camping and exploring places on my spare time.
 - 🏀 I play basketball almost daily since I was a kid and I love watching the NBA.
-- 🎾 Tennis lover. Used to play a lot, now I play a couple times a week.
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 <!-- <p><img align="right" src="blah.gif" width="250" height="250" /></p> -->
