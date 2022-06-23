@@ -55,8 +55,7 @@
 
 [<img align="left" alt="nassosanagn"  width="22px" src="/images/globe2.png" />][website]
 [<img align="left" alt="nassosanagn | Twitter" width="24px" src="/images/twitter.png" />][twitter]
-[<img align="left" alt="nassosanagn | LinkedIn" width="22px" src="/images/linkedin.png" />][linkedin]
-
+[<img align="left" alt="nassosanagn | LinkedIn" width="22px" src="/images/linkedin2.png" />][linkedin]
 <br />
 
 ---
