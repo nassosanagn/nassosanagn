@@ -7,7 +7,7 @@
 ## About Me 👨‍🎓
 <p><img align="right" src="./images/giphy1.gif" width="200" height="200" /></p>
 
-- 🎓 Studying Computer Science at the department of Informatics & Telecommunications at [@UoA].
+- 🎓 Studying Computer Science at the department of Informatics & Telecommunications at [UoA].
 - 💻 Currently working as a Junior Data Engineer at [Netcompany-Intrasoft].
 - 🌱 I’m currently learning more about Data Engineering and Machine Learning.
 - 🥅 2022 Goal: Contribute more to Open Source projects.
@@ -69,7 +69,7 @@
 </p>
 
 
-[@UoA]: https://www.di.uoa.gr/
+[UoA]: https://www.di.uoa.gr/
 [Netcompany-Intrasoft]: https://www.netcompany-intrasoft.com
 [website]: https://nassosanagn.github.io/
 [twitter]: https://twitter.com/nassosanagn
