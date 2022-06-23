@@ -57,7 +57,6 @@
 [<img align="left" alt="nassosanagn"  width="22px" src="/images/globe2.png" />][website]
 [<img align="left" alt="nassosanagn | Twitter" width="24px" src="/images/twitter.png" />][twitter]
 [<img align="left" alt="nassosanagn | LinkedIn" width="22px" src="/images/linkedin.png" />][linkedin]
-[<img align="left" alt="nassosanagn | Instagram" width="22px" src="images/insta4.png" />][instagram]
 
 <br />
 
@@ -73,5 +72,4 @@
 [Netcompany-Intrasoft]: https://www.netcompany-intrasoft.com
 [website]: https://nassosanagn.github.io/
 [twitter]: https://twitter.com/nassosanagn
-[instagram]: https://www.instagram.com/nassosanagn_/
 [linkedin]: https://www.linkedin.com/in/nassosanagn/
