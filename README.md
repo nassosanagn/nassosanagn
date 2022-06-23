@@ -5,7 +5,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## About Me 👨‍🎓
-<p><img align="right" src="./images/giphy1.gif" width="200" height="200" /></p>
+<p><img align="right" src="./images/giphy1.gif" width="180" height="180" /></p>
 
 - 🎓 Studying Computer Science at the department of Informatics & Telecommunications at [UoA].
 - 💻 Currently working as a Junior Data Engineer at [Netcompany-Intrasoft].
