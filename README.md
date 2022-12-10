@@ -7,7 +7,7 @@
 ## About Me 👨‍🎓
 <p><img align="right" src="./images/giphy1.gif" width="180" height="180" /></p>
 
-- 🎓 Studying Computer Science at the department of Informatics & Telecommunications at [UoA].
+- 🎓 Bachelor's Degree in CS at the department of Informatics & Telecommunications at [UoA].
 - 💻 Currently working as a Junior Data Engineer at [Netcompany-Intrasoft].
 - 🤖 Deeply passionate about Data Science, Machine Learning and AI.
 - 🥅 2022 Goal: Contribute more to Open Source projects.
