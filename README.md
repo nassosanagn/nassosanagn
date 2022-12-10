@@ -10,7 +10,7 @@
 - 🎓 Bachelor's Degree in CS at the department of Informatics & Telecommunications at [UoA].
 - 💻 Currently working as a Junior Data Engineer at [Netcompany-Intrasoft].
 - 🤖 Deeply passionate about Data Engineering, Data Science, Machine Learning, and AI.
-- 🥅 2023 Goal: Contribute more to Open Source projects.
+- 🎯 2023 Goal: Contribute more to Open Source projects.
 - ✈️ I really enjoy traveling, camping and exploring places on my spare time.
 - 🏀 I play basketball almost daily since I was a kid and I love watching the NBA.
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
