@@ -8,7 +8,7 @@
 <p><img align="right" src="./images/giphy1.gif" width="180" height="180" /></p>
 
 - 🎓 Bachelor's Degree in CS at the department of Informatics & Telecommunications at [UoA].
-- 💻 Currently working as a Junior Data Engineer at [Netcompany-Intrasoft].
+- 💻 Currently working as a Junior Data Engineer at [Everypay].
 - 🤖 Deeply passionate about Data Engineering, Data Science, Machine Learning, and AI.
 - 🎯 2023 Goal: Contribute more to Open Source projects.
 - ✈️ I really enjoy traveling, camping and exploring places on my spare time.
@@ -75,7 +75,7 @@
 
 
 [UoA]: https://www.di.uoa.gr/
-[Netcompany-Intrasoft]: https://www.netcompany-intrasoft.com
+[Everypay]: everypay.gr
 [website]: https://nassosanagn.github.io/
 [twitter]: https://twitter.com/nassosanagn
 [linkedin]: https://www.linkedin.com/in/nassosanagn/
