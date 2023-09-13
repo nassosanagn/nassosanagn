@@ -8,11 +8,11 @@
 <p><img align="right" src="./images/giphy1.gif" width="180" height="180" /></p>
 
 - 🎓 Bachelor's Degree in CS at the department of Informatics & Telecommunications at [UoA].
-- 💻 Currently working as a Junior Data Engineer at [Everypay].
+- 💻 Currently working as a Data Engineer at [Everypay].
 - 🤖 Deeply passionate about Data Engineering, Data Science, Machine Learning, and AI.
 - 🎯 2023 Goal: Contribute more to Open Source projects.
 - ✈️ I really enjoy traveling, camping and exploring places on my spare time.
-- 🏀 I play basketball almost daily since I was a kid and I love watching the NBA.
+<!-- - 🏀 I play basketball almost daily since I was a kid and I love watching the NBA. -->
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 <!-- <p><img align="right" src="blah.gif" width="250" height="250" /></p> -->
@@ -75,7 +75,7 @@
 
 
 [UoA]: https://www.di.uoa.gr/
-[Everypay]: everypay.gr
+[Everypay]: https://everypay.gr/
 [website]: https://nassosanagn.github.io/
 [twitter]: https://twitter.com/nassosanagn
 [linkedin]: https://www.linkedin.com/in/nassosanagn/
