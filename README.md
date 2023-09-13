@@ -76,6 +76,7 @@
 
 [UoA]: https://www.di.uoa.gr/
 [Everypay]: https://everypay.gr/
-[website]: https://nassosanagn.github.io/
+<!--[website]: https://nassosanagn.github.io/ -->
+[website]: https://github.com/nassosanagn
 [twitter]: https://twitter.com/nassosanagn
 [linkedin]: https://www.linkedin.com/in/nassosanagn/
