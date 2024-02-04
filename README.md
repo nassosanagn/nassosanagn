@@ -41,7 +41,7 @@
 
 <!-- <img align="left" alt="Kafka" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" />
 <img align="left" alt="Kafka" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
-<img align="left" alt="Kafka" width="40px" src="https://download.logo.wine/logo/Apache_HBase/Apache_HBase-Logo.wine.png" /> -->
+<img align="left" alt="Kafka" width="40px" src="https://download.logo.wine/logo/Apache_HBase/Apache_HBase-Logo.wine.png" /> 
 <br />
 
 ### Database Systems:
@@ -49,7 +49,7 @@
 
 
 <br />
-
+-->
 
 ### Tools 🛠️:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -67,12 +67,12 @@
 <br />
 
 ---
-
+<!--
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassosanagn&layout=compact&theme=tokyonight" width="350" height="190"/> 
   <img src="https://github-readme-stats.vercel.app/api?username=nassosanagn&count_private=true&show_icons=true&theme=dark" width="480" />
 </p>
-
+-->
 
 [UoA]: https://www.di.uoa.gr/
 [Everypay]: https://everypay.gr/
