@@ -7,11 +7,11 @@
 ## About Me 👨‍🎓
 <p><img align="right" src="./images/giphy1.gif" width="180" height="180" /></p>
 
-- 🎓 Bachelor's Degree in CS at the department of Informatics & Telecommunications at [UoA].
+- 🎓 Bachelor's Degree in CS at the Department of Informatics & Telecommunications at [UoA].
 - 💻 Currently working as a Data Engineer at [Everypay].
 - 🤖 Deeply passionate about Data Engineering, Data Science, Machine Learning, and AI.
-- 🎯 2023 Goal: Contribute more to Open Source projects.
-- ✈️ I really enjoy traveling, camping and exploring places on my spare time.
+- 🎯 2024 Goal: Contribute more to Open Source projects.
+- ✈️ I enjoy traveling, camping, and exploring places in my spare time.
 <!-- - 🏀 I play basketball almost daily since I was a kid and I love watching the NBA. -->
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
@@ -63,11 +63,10 @@
 ### Connect with me 🔗:
 
 [<img align="left" alt="nassosanagn"  width="22px" src="/images/globe2.png" />][website]
-[<img align="left" alt="nassosanagn | Twitter" width="24px" src="/images/twitter.png" />][twitter]
+[<img align="left" alt="nassosanagn | Twitter" width="24px" src="/images/twitter.png" />][Twitter]
 [<img align="left" alt="nassosanagn | LinkedIn" width="22px" src="/images/linkedin2.png" />][linkedin]
 <br />
 
----
 <!--
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassosanagn&layout=compact&theme=tokyonight" width="350" height="190"/> 
