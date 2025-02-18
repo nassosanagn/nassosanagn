@@ -10,7 +10,7 @@
 - 🎓 Bachelor's Degree in CS at the Department of Informatics & Telecommunications at [UoA].
 - 💻 Currently working as a Data Engineer at [Everypay].
 - 🤖 Deeply passionate about Data Engineering, Data Science, Machine Learning, and AI.
-- 🎯 2024 Goal: Contribute more to Open Source projects.
+- 🎯 2025 Goal: Contribute more to Open Source projects.
 - ✈️ I enjoy traveling, camping, and exploring places in my spare time.
 <!-- - 🏀 I play basketball almost daily since I was a kid and I love watching the NBA. -->
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
@@ -57,9 +57,10 @@
 
 ### Connect with me 🔗:
 
-[<img align="left" alt="nassosanagn"  width="22px" src="/images/globe2.png" />][website]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 <br />
 
 <!--
@@ -75,3 +76,4 @@
 [website]: https://github.com/nassosanagn
 [twitter]: https://twitter.com/nassosanagn
 [linkedin]: https://www.linkedin.com/in/nassosanagn/
+[leetcode]: https://leetcode.com/u/nasssosanagn/
