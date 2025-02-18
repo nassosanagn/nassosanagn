@@ -25,11 +25,10 @@
 <br />
 
 ### Big Data Technologies 💾:
-<img align="left" alt="Hadoop" width="35px" src="https://assets.zabbix.com/img/brands/hadoop.svg" />
-<img align="left" alt="Hive" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
-<img align="left" alt="Kafka" width="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
+<img align="left" alt="Hadoop" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
+<img align="left" alt="Hive" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
 <img align="left" alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-<img align="left" alt="Flume" width="26px" src="https://flume.apache.org/_static/flume-logo.png" />
+<img align="left" alt="Kafka" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
 <br />
 
 <!-- <img align="left" alt="Kafka" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" />
@@ -39,7 +38,6 @@
 -->
 
 ### Database Systems:
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" /> 
 <img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
