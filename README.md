@@ -2,8 +2,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220" height="220"></picture>
 
-### About Me 👨‍🎓
-<!-- <p><img align="right" src="./images/giphy1.gif" width="180" height="180" /></p> -->
+### About Me 👨‍🎓 <img src="https://komarev.com/ghpvc/?username=nassosanagn&label=Profile%20views&color=0047AB&style=flat-square" alt="nassosanagn" height="20px" width="100px" style="vertical-align: middle;"/>
 
 - 🎓 Bachelor's Degree in CS at the Department of Informatics & Telecommunications at [UoA].
 - 💻 Currently working as a Data Engineer at [Everypay].
