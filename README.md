@@ -1,10 +1,6 @@
-
 ### Hi there, I'm [Nassos Anagnostopoulos][website]👋
 
-<!-- [![Website](https://img.shields.io/website?label=nassosanagn&up_color=blue&url=https%3A%2F%2Fnassosanagn.github.io%2F)](https://nassosanagn.github.io/) -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
-## About Me 👨‍🎓
+### About Me 👨‍🎓
 <p><img align="right" src="./images/giphy1.gif" width="180" height="180" /></p>
 
 - 🎓 Bachelor's Degree in CS at the Department of Informatics & Telecommunications at [UoA].
@@ -12,60 +8,62 @@
 - 🤖 Deeply passionate about Data Engineering, Data Science, Machine Learning, and AI.
 - 🎯 2025 Goal: Contribute more to Open Source projects.
 - ✈️ I enjoy traveling, camping, and exploring places in my spare time.
-<!-- - 🏀 I play basketball almost daily since I was a kid and I love watching the NBA. -->
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 <!-- <p><img align="right" src="blah.gif" width="250" height="250" /></p> -->
 
-### Programming Languages 💻:
+### 🛠️ Tech Stack
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<br />
-
-### Big Data Technologies 💾:
-<img align="left" alt="Hadoop" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
-<img align="left" alt="Hive" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
-<img align="left" alt="Spark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-<img align="left" alt="Kafka" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-<br />
-
-<!-- <img align="left" alt="Kafka" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" />
-<img align="left" alt="Kafka" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
-<img align="left" alt="Kafka" width="40px" src="https://download.logo.wine/logo/Apache_HBase/Apache_HBase-Logo.wine.png" /> 
-<br /> 
--->
-
-### Database Systems:
-<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-
-<br />
-
-### Tools 🛠️:
-<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" />
-<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png#gh-light-mode-only" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
-
-### Connect with me 🔗:
-
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-<br />
-
-<!--
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassosanagn&layout=compact&theme=tokyonight" width="350" height="190"/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nassosanagn&count_private=true&show_icons=true&theme=dark" width="480" />
+#### 💻 Programming Languages
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
--->
+
+#### ☁️ Cloud & Infrastructure
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="AWS S3" src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img alt="AWS Glue" src="https://img.shields.io/badge/Glue-7C2BFF?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+#### 📊 Big Data 
+<!-- & Streaming -->
+<p>
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+  <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black" />
+  <img alt="Apache Hive" src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black" />
+</p>
+
+#### 🗄️ Databases & Warehousing
+<p>
+  <img alt="Redshift" src="https://img.shields.io/badge/AWS Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+#### 🔧 Tools & Platforms
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+</p>
+
+
+### Let's connect! 🤝:
+
+<p>
+  <a href="https://github.com/nassosanagn"><img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/nassosanagn/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/nassosanagn"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://leetcode.com/u/nasssosanagn/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
+</p>
 
 [UoA]: https://www.di.uoa.gr/
 [Everypay]: https://everypay.gr/
