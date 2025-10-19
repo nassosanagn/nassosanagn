@@ -4,7 +4,7 @@
 ### About Me 👨‍🎓
 <!-- <p><img align="right" src="./images/giphy1.gif" width="180" height="180" /></p> -->
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230" height="230" style="margin-top: -20px;"></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220" height="220" style="margin-top: -20px;"></picture>
 
 - 🎓 Bachelor's Degree in CS at the Department of Informatics & Telecommunications at [UoA].
 - 💻 Currently working as a Data Engineer at [Everypay].
