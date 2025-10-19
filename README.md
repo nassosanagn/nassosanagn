@@ -1,7 +1,11 @@
+
 ### Hi there, I'm [Nassos Anagnostopoulos][website]👋
 
 ### About Me 👨‍🎓
-<p><img align="right" src="./images/giphy1.gif" width="180" height="180" /></p>
+<!-- <p><img align="right" src="./images/giphy1.gif" width="180" height="180" /></p> -->
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 240></picture>
+
 
 - 🎓 Bachelor's Degree in CS at the Department of Informatics & Telecommunications at [UoA].
 - 💻 Currently working as a Data Engineer at [Everypay].
@@ -12,6 +16,9 @@
 <!-- <p><img align="right" src="blah.gif" width="250" height="250" /></p> -->
 
 ### 🛠️ Tech Stack
+<!-- <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+</p> -->
 
 #### 💻 Programming Languages
 <p>
@@ -56,12 +63,12 @@
 </p>
 
 
-### Let's connect! 🤝:
+### 🤝 Let's connect!
 
 <p>
   <a href="https://github.com/nassosanagn"><img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/nassosanagn/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/nassosanagn"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://x.com/nassosanagn"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="https://leetcode.com/u/nasssosanagn/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
 </p>
 
