@@ -4,10 +4,11 @@
 
 ### About Me 👨‍🎓 <img src="https://komarev.com/ghpvc/?username=nassosanagn&label=Profile%20views&color=0047AB&style=flat-square" alt="nassosanagn" height="20px" width="100px" style="vertical-align: middle;"/>
 
+- 🏫 Currently pursuing an M.Sc. in Computer Science at [Georgia Tech] (OMSCS)
+- ⚙️ Data Engineer at [Everypay].
 - 🎓 Bachelor's Degree in CS at the Department of Informatics & Telecommunications at [UoA].
-- 💻 Currently working as a Data Engineer at [Everypay].
-- 🤖 Deeply passionate about Data Engineering, Data Science, Machine Learning, and AI.
-- 🎯 2025 Goal: Contribute more to Open Source projects.
+- 🤖 Deeply passionate about Data Engineering, Machine Learning, and AI.
+- 🎯 2026 Goal: Contribute more to Open Source projects.
 - ✈️ I enjoy traveling, camping, and exploring places in my spare time.
 
 <!-- <p><img align="right" src="blah.gif" width="250" height="250" /></p> -->
@@ -71,6 +72,7 @@
 
 [UoA]: https://www.di.uoa.gr/
 [Everypay]: https://everypay.gr/
+[Georgia Tech]: https://omscs.gatech.edu/
 <!--[website]: https://nassosanagn.github.io/ -->
 [website]: https://github.com/nassosanagn
 [twitter]: https://twitter.com/nassosanagn
